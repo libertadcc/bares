@@ -1,0 +1,13 @@
+html, body, #divMap {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.filter-beer {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    z-index: 1;
+}
