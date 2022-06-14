@@ -18,7 +18,8 @@ require(["esri/config", "esri/Map", "esri/views/MapView", "esri/layers/FeatureLa
     // -- Simbología
     var beerIcon = {
         type: "picture-marker",
-        url: "https://www.iconpacks.net/icons/2/free-beer-icon-1786-thumb.png",
+        // url: "https://www.iconpacks.net/icons/2/free-beer-icon-1786-thumb.png",
+        url: "images/beer.png",
         width: 20,
         height: 20
     };
