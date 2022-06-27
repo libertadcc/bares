@@ -81,7 +81,7 @@ require(["esri/config", "esri/Map", "esri/views/MapView", "esri/layers/FeatureLa
 
 
     
-    search.on('search-complete', showRadioForm);
+    // search.on('search-complete', showRadioForm);
 
     // Lo trae el propio geocoder
     // const locate = new Locate({
